@@ -1,0 +1,16 @@
+
+{
+  "name": "gitau-md-session-gen",
+  "version": "1.0.0",
+  "description": "Gitau-md WhatsApp Session Generator",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "archiver": "^5.3.1",
+    "express": "^4.18.2",
+    "qrcode": "^1.5.1"
+  }
+}
